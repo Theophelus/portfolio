@@ -177,6 +177,7 @@ body {
 }
 .fa-home:hover {
   opacity: 1;
+  font-size: 25px;
 }
 /* END PROJECT SECTION */
 
