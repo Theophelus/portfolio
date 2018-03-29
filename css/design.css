@@ -212,6 +212,9 @@ body {
   #projects h6 {
     text-align: center;
   }
+  .developer {
+    font-size: 10px;
+  }
 }
 
 
